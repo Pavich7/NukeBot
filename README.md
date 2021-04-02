@@ -18,4 +18,4 @@
 **Step 3** Scroll Down and check Administrator.\
 **Step 4** Copy link and paste in new tap.
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details
+This project is licensed under the MIT License - see the LICENSE file for details
