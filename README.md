@@ -11,8 +11,8 @@
 **Step 3** Replace `YOUR_TOKEN_HERE` with your token in line 3 then save.\
 **Step 4** Open Command Prompt (Windows) or Terminal (Linux & Mac) with nodejs.\
 **Step 5** Navigate to your bot folder using `cd` command.\
-**Step 6** Install Discordjs by type `npm install discord.js` then hit Enter.
-**Step 6** Run by type `node index.js` then hit Enter.
+**Step 6** Install Discordjs by type `npm install discord.js` then hit Enter.\
+**Step 7** Run by type `node index.js` then hit Enter.
 ### Invite to your server
 **Step 1** Go to OAuth2 section.\
 **Step 2** Select Bot Scope on OAuth2 URL Generator.\
