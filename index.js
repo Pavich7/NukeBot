@@ -2,6 +2,9 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const token = 'YOUR_TOKEN_HERE';
 client.on('message' , msg=>{
+    if(msg.content ===  "nuke"){
+        msg.channel.send(`Sure? Type "nuke confirm" to activate.`)
+    }
     if(msg.content ===  "nuke confirm"){
         async function wipe() {
         var msg_size = 100;
@@ -15,5 +18,4 @@ client.on('message' , msg=>{
     wipe()
     }
 })
-
 client.login(token);
