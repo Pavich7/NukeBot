@@ -1,11 +1,12 @@
 # NukeBot
 ## Nuke Bot is a open source Discord Bot. Made for delete all message in selected channel!
-### Feature
-- `nuke confirm` to delete all message
+## Feature
+- `nuke` to start nuke function.
+- `nuke confirm` to activate nuke function.
 ## Requirement
 - nodejs https://nodejs.org/
 - npm https://www.npmjs.com/ (Come with nodejs)
-### Preparing and Run this Bot
+## Preparing and Run this Bot
 **Step 1** Build a Bot in Discord Developer Portal.\
 **Step 2** Copy token in bot section.\
 **Step 3** Replace `YOUR_TOKEN_HERE` with your token in line 3 then save.\
@@ -13,7 +14,7 @@
 **Step 5** Navigate to your bot folder using `cd` command.\
 **Step 6** Install Discordjs by type `npm install discord.js` then hit Enter.\
 **Step 7** Run by type `node index.js` then hit Enter.
-### Invite to your server
+## Invite to your server
 **Step 1** Go to OAuth2 section.\
 **Step 2** Select Bot Scope on OAuth2 URL Generator.\
 **Step 3** Scroll Down and check Administrator.\
