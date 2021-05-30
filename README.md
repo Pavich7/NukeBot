@@ -18,6 +18,6 @@
 **Step 1** Go to OAuth2 section.\
 **Step 2** Select Bot Scope on OAuth2 URL Generator.\
 **Step 3** Scroll Down and check Administrator.\
-**Step 4** Copy link and paste in new tap.
+**Step 4** Copy link and paste in new tab.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
