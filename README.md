@@ -21,3 +21,5 @@
 **Step 4** Copy link and paste in new tab.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
+## PavichDev Open Source
+This repositories is a part of PavichDev Open Source
