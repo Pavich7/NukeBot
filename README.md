@@ -1,5 +1,5 @@
 # NukeBot
-## Nuke Bot is a open source Discord Bot. Made for delete all message in selected channel!
+## NukeBot is a open source Discord Bot. Made for delete all message in selected channel!
 ## Feature
 - `nuke` to start nuke function.
 - `nuke confirm` to activate nuke function.
@@ -19,6 +19,8 @@
 **Step 2** Select Bot Scope on OAuth2 URL Generator.\
 **Step 3** Scroll Down and check Administrator.\
 **Step 4** Copy link and paste in new tab.
+## NukeBot hosted on our server
+If you want to use NukeBot hosted on our server [Click Here!](https://discord.com/api/oauth2/authorize?client_id=827536189481156689&permissions=17179880464&scope=bot)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
 ## PavichDev Open Source
