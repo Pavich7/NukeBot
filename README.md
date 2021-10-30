@@ -20,7 +20,7 @@
 **Step 3** Scroll Down and check Administrator.\
 **Step 4** Copy link and paste in new tab.
 ## NukeBot hosted on our server
-If you want to use NukeBot hosted on our server [Click Here!](https://discord.com/api/oauth2/authorize?client_id=827536189481156689&permissions=17179880464&scope=bot)
+NukeBot will be shutting down shortly. You can still run this bot under your own server!
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
 ## PavichDev Open Source
