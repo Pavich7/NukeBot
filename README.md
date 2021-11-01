@@ -20,7 +20,7 @@
 **Step 3** Scroll Down and check Administrator.\
 **Step 4** Copy link and paste in new tab.
 ## NukeBot hosted on our server
-NukeBot will be shutting down shortly. You can still run this bot under your own server!
+NukeBot has ended its service, but don't worry you can still run this bot under your own server!
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
 ## PavichDev Open Source
